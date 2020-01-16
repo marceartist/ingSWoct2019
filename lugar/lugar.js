@@ -29,7 +29,6 @@ const getLugarLatLng = async( dir ) => {
     }
 }
 
-
 module.exports = {
     getLugarLatLng
 }
